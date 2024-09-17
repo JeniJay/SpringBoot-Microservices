@@ -1,0 +1,14 @@
+#version: '4'
+##services:
+#  mongodb:
+#    image: mongodb/mongodb-atlas-local:latest
+#    container_name: mongodb
+#    environment:
+#      MONGODB_INITDB_ROOT_USERNAME=jeniferjayaraj
+#      MONGODB_INITDB_ROOT_PASSWORD=6W7ueRxyRLXzJUEu
+#      MONGODB_DATABASE=product
+#    port:
+#      - "27018:27017"
+
+
+
